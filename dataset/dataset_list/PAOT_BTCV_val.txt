@@ -1,0 +1,6 @@
+01_BTCV/img/img0003.nii.gz	01_BTCV/label/label0003.nii.gz
+01_BTCV/img/img0006.nii.gz	01_BTCV/label/label0006.nii.gz
+01_BTCV/img/img0010.nii.gz	01_BTCV/label/label0010.nii.gz
+01_BTCV/img/img0036.nii.gz	01_BTCV/label/label0036.nii.gz
+01_BTCV/img/img0039.nii.gz	01_BTCV/label/label0039.nii.gz
+01_BTCV/img/img0040.nii.gz	01_BTCV/label/label0040.nii.gz
