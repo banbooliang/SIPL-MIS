@@ -9,7 +9,7 @@ The repo contains PyTorch implementation of paper **Advancing Medical Image Segm
 ## Installation
 ### 1. Create and activate conda environment
 ```bash
-conda create --name unetr_pp python=3.10
+conda create --name SIPL python=3.10
 conda activate SIPL
 ```
 ### 2. Install PyTorch and torchvision
