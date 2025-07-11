@@ -55,12 +55,14 @@ CUDA_VISIBLE_DEVICES=0 python -W ignore test.py --resume ./out/epoch_***.pth --d
 ## Citation
 If you find this repository useful, please consider citing this paper:
 ```
-@inproceedings{ijcai2024p117,
-  title     = {Advancing Medical Image Segmentation via Self-supervised Instance-adaptive Prototype Learning},
-  author    = {Liang, Guoyan and Zhou, Qin and Chen, Jingyuan and Wang, Zhe and Yao, Chang},
-  booktitle = {Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence, IJCAI-24},
-  pages     = {1056--1064},
-  year      = {2024},
+@misc{liang2025advancingmedicalimagesegmentation,
+      title={Advancing Medical Image Segmentation via Self-supervised Instance-adaptive Prototype Learning}, 
+      author={Guoyan Liang and Qin Zhou and Jingyuan Chen and Zhe Wang and Chang Yao},
+      year={2025},
+      eprint={2507.07602},
+      archivePrefix={arXiv},
+      primaryClass={stat.ME},
+      url={https://arxiv.org/abs/2507.07602}, 
 }
 ```
 
